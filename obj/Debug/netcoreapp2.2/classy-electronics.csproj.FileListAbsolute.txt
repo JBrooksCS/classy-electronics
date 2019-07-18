@@ -1,0 +1,11 @@
+/Users/jason/Workspace/classy-electronics/bin/Debug/netcoreapp2.2/classy-electronics.deps.json
+/Users/jason/Workspace/classy-electronics/bin/Debug/netcoreapp2.2/classy-electronics.runtimeconfig.json
+/Users/jason/Workspace/classy-electronics/bin/Debug/netcoreapp2.2/classy-electronics.runtimeconfig.dev.json
+/Users/jason/Workspace/classy-electronics/bin/Debug/netcoreapp2.2/classy-electronics.dll
+/Users/jason/Workspace/classy-electronics/bin/Debug/netcoreapp2.2/classy-electronics.pdb
+/Users/jason/Workspace/classy-electronics/obj/Debug/netcoreapp2.2/classy-electronics.csprojAssemblyReference.cache
+/Users/jason/Workspace/classy-electronics/obj/Debug/netcoreapp2.2/classy-electronics.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/classy-electronics/obj/Debug/netcoreapp2.2/classy-electronics.AssemblyInfoInputs.cache
+/Users/jason/Workspace/classy-electronics/obj/Debug/netcoreapp2.2/classy-electronics.AssemblyInfo.cs
+/Users/jason/Workspace/classy-electronics/obj/Debug/netcoreapp2.2/classy-electronics.dll
+/Users/jason/Workspace/classy-electronics/obj/Debug/netcoreapp2.2/classy-electronics.pdb
